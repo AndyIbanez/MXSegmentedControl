@@ -10,8 +10,7 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "MXSegmentedControl",
-            path: "MXSegmentedControl"
+			name: "MXSegmentedControl"
         )
     ],
     swiftLanguageVersions: [.v5,.v4_2]
